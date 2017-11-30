@@ -6,6 +6,7 @@ greetingprogram
 * associated main method that will be overriden or overloaded
 * by the sub-class methods.
 *
+<<<<<<< HEAD
 * Adding Rhodey from Ras Pi, as user Rhodey. 
 *
 *
@@ -15,10 +16,17 @@ greetingprogram
 *
 *
 *
+=======
+>>>>>>> master
 *
 *
 *
 *
+<<<<<<< HEAD
+=======
+* Adding Rhodey_Win as user on windows machine to work this 
+* project. 
+>>>>>>> master
 */
 
 
